@@ -47,3 +47,10 @@ Pour initialiser un dossier git, on tape <code>git init</code>
 pour connaître l'état d'un fichier, on fait <code>git status</code>
 ## Placer de nouveau fichiers sous suivi de version
 Pour commencer à suivre un nouveau fichier, il faut lacommande <code>git add **nomfichier**</code>
+## Ignoré des fichiers
+Le fichier **.gitignore** permet d'ignorer les fichiers qu'on ne veut pas versionner
+
+* Les lignes vides ou commençant par # sont ignorées.
+* Les patrons standards de fichiers sont utilisables.
+* Si le patron se termine par une barre oblique (/), il indique un répertoire.
+* Un patron commençant par un point d'exclamation (!) indique des fichiers à exclure malgré les autre règles.
