@@ -66,3 +66,7 @@ Le fichier **.gitignore** permet d'ignorer les fichiers qu'on ne veut pas versio
   * Quelle modification a été indexée et est prête  pour la validation ,
 * **git diff** montre les changements ligne par ligne
 * Pour avoir les modifications qui font partie de la prochaine validation, vous pouvez utiliser **git diff --cached**
+
+## Valider les modification
+la commande **git commit**, nous permet de valider les modification
+ * avec l'option **-m** pour indiquer le message du commit
