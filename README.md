@@ -34,4 +34,7 @@ Git permet 👍
     3. **Indexé** = La zone virtuelle qui liste les fichiers qui seront dans le prochain instantané.
 
 ![etats](images/trois-etats.png)
+
+## Initialisation d'un dossier 
+Pour initialiser un dossier git, on tape <code>git init</code>
    
