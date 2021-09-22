@@ -37,4 +37,5 @@ Git permet 👍
 
 ## Initialisation d'un dossier 
 Pour initialiser un dossier git, on tape <code>git init</code>
-   
+## Clone 
+<code>git clone url</code> permet de récuperer un projet distant sur github
