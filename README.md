@@ -20,3 +20,9 @@ Git permet 👍
 * Permet de revenir à une version précédente
 * Fonctionne avec tout type de fichier(.txt, .java, .jpg, .exe, ...)
 * Permet de retrouver un fichier supprimé
+## Les trois états
+* Un fichier modifier sous Git peut être sous 3 états:
+    * **Validé,** le fichier est sauvegardé en base.
+    * **Modifier,** le fichier est modifié, la modification n'est pas en base.
+    * **Indexé,** le fichier est modifié, et est prêt à être envoyé en base.
+   
