@@ -41,3 +41,5 @@ Pour initialiser un dossier git, on tape <code>git init</code>
 <code>git clone url</code> permet de récuperer un projet distant sur github
 ## Fonctionnement de git
 ![fonctionnement](images/fonctionnement.png)
+## Vérifier l'état d'un fichier
+pour connaître l'état d'un fichier, on fait <code>git status</code>
