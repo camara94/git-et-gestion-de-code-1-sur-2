@@ -54,3 +54,6 @@ Le fichier **.gitignore** permet d'ignorer les fichiers qu'on ne veut pas versio
 * Les patrons standards de fichiers sont utilisables.
 * Si le patron se termine par une barre oblique (/), il indique un répertoire.
 * Un patron commençant par un point d'exclamation (!) indique des fichiers à exclure malgré les autre règles.
+  
+## Exemple de fichiers git ignore
+[https://github.com/github/gitignore/](https://github.com/github/gitignore/)
