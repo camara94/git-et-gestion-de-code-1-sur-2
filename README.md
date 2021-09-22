@@ -38,8 +38,12 @@ Git permet 👍
 ## Initialisation d'un dossier 
 Pour initialiser un dossier git, on tape <code>git init</code>
 ## Clone 
+
 <code>git clone url</code> permet de récuperer un projet distant sur github
+
 ## Fonctionnement de git
 ![fonctionnement](images/fonctionnement.png)
 ## Vérifier l'état d'un fichier
 pour connaître l'état d'un fichier, on fait <code>git status</code>
+## Placer de nouveau fichiers sous suivi de version
+Pour commencer à suivre un nouveau fichier, il faut lacommande <code>git add **nomfichier**</code>
