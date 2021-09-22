@@ -9,3 +9,8 @@ Git permet 👍
 * D'avoir une historique precise de son projet
 * De pouvoir blamé quelqu'un !;-)
 * .... 
+## Les ressources
+* [https://git-scm.com/](https://git-scm.com/): Site officiel de Git
+* [http://github.com](http://github.com): Plateforme en ligne de Git
+* [http://gitref.org](http://gitref.org): Pour ne jamais oublier les commandes
+* [https://try.github.io](https://try.github.io): Pour s'entrainer
