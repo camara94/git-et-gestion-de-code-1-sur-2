@@ -14,3 +14,9 @@ Git permet 👍
 * [http://github.com](http://github.com): Plateforme en ligne de Git
 * [http://gitref.org](http://gitref.org): Pour ne jamais oublier les commandes
 * [https://try.github.io](https://try.github.io): Pour s'entrainer
+
+## Qu'est ce qu'un gestionnaire de version ?
+* Enregistrer les évolutions d'un fichier
+* Permet de revenir à une version précédente
+* Fonctionne avec tout type de fichier(.txt, .java, .jpg, .exe, ...)
+* Permet de retrouver un fichier supprimé
