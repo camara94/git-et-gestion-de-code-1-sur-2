@@ -57,3 +57,12 @@ Le fichier **.gitignore** permet d'ignorer les fichiers qu'on ne veut pas versio
   
 ## Exemple de fichiers git ignore
 [https://github.com/github/gitignore/](https://github.com/github/gitignore/)
+
+## Inspecter les modifications indexées et non indexées
+
+* Pour avoir une vision plus précise des changements faits sur les fichiers, on utilise **git diff**.
+* Cette commande répond aux questions:
+  * qui a été modifié, mais pas encore indexé ?
+  * Quelle modification a été indexée et est prête  pour la validation ,
+* **git diff** montre les changements ligne par ligne
+* Pour avoir les modifications qui font partie de la prochaine validation, vous pouvez utiliser **git diff --cached**
