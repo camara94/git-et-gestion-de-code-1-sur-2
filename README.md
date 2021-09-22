@@ -26,4 +26,12 @@ Git permet 👍
     * **Modifier,** le fichier est modifié, la modification n'est pas en base.
     * **Indexé,** le fichier est modifié, et est prêt à être envoyé en base.
   ![etats](images/trois-etats.png)
+
+## Les trois états
+* Ce qui nous donne trois sections principales d'un projets GIT
+    1. **Validé** = Le répertoire **.git**
+    2. **Modifier** = Le répertoire **courant de travail**
+    3. **Indexé** = La zone virtuelle qui liste les fichiers qui seront dans le prochain instantané.
+
+![etats](images/trois-etats.png)
    
