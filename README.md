@@ -78,3 +78,7 @@ la commande **git commit**, nous permet de valider les modification
 * Cette commande va prendre l'index du commit précédent.
 * l'éditeur s'ouvre avec les modifications et le message.
 * Il est possible de modifier uniquememnt le message du commit.
+
+## Déxindexer un fichier déjà indexé
+* Imaginons que vous avez indexé trop de fichiers.
+  <code>git reset HEAD <fichier></code>
