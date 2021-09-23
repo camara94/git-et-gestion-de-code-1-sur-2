@@ -82,3 +82,7 @@ la commande **git commit**, nous permet de valider les modification
 ## Déxindexer un fichier déjà indexé
 * Imaginons que vous avez indexé trop de fichiers.
   <code>git reset HEAD &lt;fichier&gt;</code>
+
+## Ajouter des dépôts distants
+* Pour ajouter des dépôts distants
+  <code>git remote add &lt;nomquondesirdonneeauxprojet&gt; urlgithub</code>
