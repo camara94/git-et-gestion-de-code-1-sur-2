@@ -69,4 +69,12 @@ Le fichier **.gitignore** permet d'ignorer les fichiers qu'on ne veut pas versio
 
 ## Valider les modification
 la commande **git commit**, nous permet de valider les modification
- * avec l'option **-m** pour indiquer le message du commit
+ * avec l'option **-m** pour indiquer le message du commit.
+  
+## Modifier un commit 
+* Attention, certaines modifications sont permanentes.
+* Pour modifier un commit:
+   <code>git commit --amend</code>
+* Cette commande va prendre l'index du commit précédent.
+* l'éditeur s'ouvre avec les modifications et le message.
+* Il est possible de modifier uniquememnt le message du commit.
