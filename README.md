@@ -88,3 +88,6 @@ la commande **git commit**, nous permet de valider les modification
   <code>git remote add &lt;nomquondesirdonneeauxprojet&gt; urlgithub</code>
 ## Mettre à jour son dépôt local
 <code> git fetch </code>
+
+## Envoyer des donnée sur le dépôt distant
+<code>git push origin branch</code>
