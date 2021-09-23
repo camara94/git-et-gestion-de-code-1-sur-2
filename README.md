@@ -86,3 +86,5 @@ la commande **git commit**, nous permet de valider les modification
 ## Ajouter des dépôts distants
 * Pour ajouter des dépôts distants
   <code>git remote add &lt;nomquondesirdonneeauxprojet&gt; urlgithub</code>
+## Mettre à jour son dépôt local
+<code> git fetch </code>
