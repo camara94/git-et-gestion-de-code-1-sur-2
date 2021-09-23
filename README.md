@@ -81,4 +81,4 @@ la commande **git commit**, nous permet de valider les modification
 
 ## Déxindexer un fichier déjà indexé
 * Imaginons que vous avez indexé trop de fichiers.
-  <code>git reset HEAD <fichier></code>
+  <code>git reset HEAD &lt;fichier&gt;</code>
