@@ -91,3 +91,7 @@ la commande **git commit**, nous permet de valider les modification
 
 ## Envoyer des donnée sur le dépôt distant
 <code>git push origin branch</code>
+
+## Inspecter un dépôt distant
+* Pour avoir plus d'informations sur un dépôt distant:
+ <code>git remote show [dépôt distant]</code>
